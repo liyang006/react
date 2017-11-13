@@ -1,0 +1,51 @@
+.container .left{
+	width: 20%;
+    height: 500px;
+    border: 1px solid;
+    float: left;
+    margin: 0 25px 20px 20px;
+}
+.container .left h2{
+	font-weight: normal;
+    padding: 10px;
+    border-bottom: 1px solid;
+}
+.container .left li {
+	text-indent: 1em;
+	list-style: none;
+}
+.container .left li a{
+	line-height: 1.8;
+	color: #333;
+	text-decoration: none;
+	
+
+}
+.container .left li a:hover{
+	
+	color: red;
+
+}
+.container .left ul{
+	padding-top: 10px;
+}
+.item-box{
+	margin-top: 20px;
+	width: 90%;
+}
+.item-box .newsItem{
+	margin-bottom: 10px;
+	line-height: 1.8;
+}
+.item-box .newsItem p{
+	width: 80%;
+}
+.item-box .newsItem h1{
+	font-weight: normal;
+}
+.newsItem {
+ color: #828282;
+ margin-top: 5px;
+ align-items: baseline;
+ 
+}

@@ -1,0 +1,9 @@
+
+*{margin:0; padding:0}
+h1{font-size:16px;color: red;}
+body {
+ font-family: Verdana, sans-serif;
+}
+.fr{
+	float:right;
+}
